@@ -2,7 +2,7 @@ import streamlit as st
 import json
 import os
 import time
-from cryptography.fernet import Fernet 
+from cryptography.fernet import Fernet # pip install streamlit cryptography / pip install cryptography
 import base64
 import hashlib
 import datetime
